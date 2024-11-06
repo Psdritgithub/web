@@ -1,0 +1,54 @@
+#one{
+    text-align: right;
+    display: block;
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,253,230,0) 100%);
+    padding: 10px;
+    margin: 10px;
+}
+h1{
+    text-align:left;
+    display: block;
+    padding: 10px;
+    margin: 10px;
+}
+#two{
+    display: block;
+    border: 2px solid black;
+    color: brown;
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,253,230,0) 100%);
+    padding: 10px;
+    margin: 10px;
+
+}
+#three{
+    text-align: center;
+}
+
+#four{
+    border: solid black;
+    display: block;
+    padding: 10px;
+    margin: 10px;
+
+    
+}
+#five{
+    display: block;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+#six{
+    display: block;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+
+}
+#seven{
+    display: block;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,253,230,0) 100%);
+}
